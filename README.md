@@ -45,8 +45,8 @@ Plot histogram and Q-Q plot of residuals to check if they follow a normal distri
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: Saravana Kumar S
-RegisterNumber:  212224220090
+Developed by: ADITYA S
+RegisterNumber:  212223040007
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
